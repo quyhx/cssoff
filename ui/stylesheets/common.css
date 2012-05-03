@@ -404,3 +404,9 @@ article h1, #obstacles .window h2 {
 		padding: 20px 0 50px;
 		background: url(../images/sprite.png) no-repeat center -1581px;
 	}
+.Github {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
